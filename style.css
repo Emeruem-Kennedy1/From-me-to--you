@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('love.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Lovers Quarrel', cursive;
+    color: white;
+}
+.container{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+p{
+    font-size: 3rem;
+    margin: 0rem;
+    font-weight: 400;
+}
+.time{
+    margin: 0rem 2rem;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+span{
+    color: crimson;
+}
