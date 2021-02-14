@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('lave.jpg');
+    background-image: url('./lave.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -32,7 +32,7 @@ p{
     margin: 0rem 2rem;
 }
 h1{
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
 }
 span{
